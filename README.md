@@ -12,7 +12,7 @@
 
 ###
 
--🔭I'm working as a **Front-end developer.**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
+-🔭I am developing a **Music Application.**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
 
 ###
 
