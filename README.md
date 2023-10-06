@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="273" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
@@ -10,13 +12,35 @@
 
 ###
 
--🔭I'm working as a **Front-end developer.**<br>-📚 I'm currently learning **ReactJS**<br>-✉️ How to reach me **sadikahmet25@gmail.com**
+-🔭I'm working as a **Front-end developer.**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
 
 ###
+
+<h3 align="left">- ✉️ How to reach me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/remolg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/remolg_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:sadikahmet25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -47,12 +71,7 @@
 ###
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/remolg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/remolg_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=remolg.remolg&"  />
 </div>
 
 ###
