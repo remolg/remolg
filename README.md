@@ -69,11 +69,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
 </div>
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=remolg.remolg&"  />
-</div>
-
-###
