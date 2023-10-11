@@ -12,7 +12,7 @@
 
 ###
 
--🔭I am developing a **Music Application.**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
+-🔭I am developing a **Youtube Clone**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
 
 ###
 
