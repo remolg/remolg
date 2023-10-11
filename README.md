@@ -12,7 +12,7 @@
 
 ###
 
--🔭I am developing a **Youtube Clone**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
+-🔭 I’m currently working on **My Portfolio**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://sadikahmetozdemir.me/">**sadikahmetozdemir.me**</a>
 
 ###
 
@@ -66,6 +66,8 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
 </div>
 
 ###
