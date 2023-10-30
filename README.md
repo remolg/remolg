@@ -12,7 +12,7 @@
 
 ###
 
--🔭 I’m currently working on **My Portfolio**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://remolg-portfolio.netlify.app/">**MY Portfolio**</a>
+-🔭 I’m currently working on **Whatsapp Web Clone**<br>-📚 I'm currently learning **ReactJS**<br>-🧾You can find all my projects here <a href="https://remolg-portfolio.netlify.app/">**MY Portfolio**</a>
 
 ###
 
