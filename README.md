@@ -12,7 +12,7 @@
 
 ###
 
--🔭 I’m currently working on **website project**<br>-📚 I'm currently learning **NodeJS**<br>-🧾You can find all my projects here <a href="https://remolg-portfolio.netlify.app/">**MY Portfolio**</a>
+-🔭 I'm currently working on **Hür Enerji's website project.**<br>-📚 I'm currently learning **NodeJS**<br>-🧾You can find all my projects here <a href="https://remolg-portfolio.netlify.app/">**MY Portfolio**</a>
 
 ###
 
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
