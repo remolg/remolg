@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Sadık Ahmet Özdemir</h2>
+<h2 align="center">Hi 👋, I'm Remolg</h2>
 
 ###
 
