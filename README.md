@@ -12,7 +12,7 @@
 
 ###
 
--🔭 I'm currently working on **GITGIT** website project.<br>-📚 I'm currently learning **NodeJS** and **TypeScript**<br>-🧾You can find all my projects here <a href="https://sadikahmet.netlify.app/">**MY Portfolio**</a>
+-🔭 I'm currently working on <a href="http://gitgit.me/" target="_blank"> gitgit.me </a>website project.<br>-📚 I'm currently learning **NodeJS** and **TypeScript**<br>-🧾You can find all my projects here <a href="https://sadikahmet.netlify.app/">**MY Portfolio**</a>
 
 ###
 
