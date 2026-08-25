@@ -12,7 +12,7 @@
 
 ###
 
--🔭 I'm currently working on <a href="http://gitgit.me/" target="_blank"> gitgit.me </a>website project.<br>-📚 I'm currently learning **NodeJS** and **TypeScript**
+-🔭 I'm currently working on <a href="http://gitgit.me/" target="_blank"> gitgit.me & dig </a>website project.<br>-📚 I'm currently learning **NodeJS** and **TypeScript**
 ###
 
 <h3 align="left">- ✉️ How to reach me</h3>
